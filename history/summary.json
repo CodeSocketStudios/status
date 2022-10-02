@@ -2,7 +2,7 @@
   {
     "name": "Google",
     "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 71,
-    "timeWeek": 100,
-    "timeMonth": 121,
+    "timeDay": 67,
+    "timeWeek": 102,
+    "timeMonth": 120,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2022-01-08": 25
@@ -22,7 +22,7 @@
   {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org",
-    "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
+    "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 261,
-    "timeWeek": 371,
-    "timeMonth": 413,
+    "timeDay": 226,
+    "timeWeek": 271,
+    "timeMonth": 418,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2022-06-10": 23
@@ -42,7 +42,7 @@
   {
     "name": "Hacker News",
     "url": "https://news.ycombinator.com",
-    "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
+    "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.95%",
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 257,
-    "timeDay": 476,
-    "timeWeek": 329,
-    "timeMonth": 268,
-    "timeYear": 247,
+    "time": 258,
+    "timeDay": 446,
+    "timeWeek": 340,
+    "timeMonth": 275,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2022-07-08": 515,
       "2022-06-15": 37,
@@ -64,7 +64,7 @@
   {
     "name": "Test Broken Site",
     "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.koj.co",
+    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
     "slug": "test-broken-site",
     "status": "down",
     "uptime": "100.00%",
